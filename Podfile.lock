@@ -1,0 +1,13 @@
+PODS:
+  - Canvas (0.1)
+  - MYBlurIntroductionView (1.0.1)
+
+DEPENDENCIES:
+  - Canvas
+  - MYBlurIntroductionView (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  Canvas: 1d94806aab1ef0486df719f80f47eccf40a08ae5
+  MYBlurIntroductionView: 5ba3472c3d858a10738761a086ad7446cc17ab08
+
+COCOAPODS: 0.28.0
