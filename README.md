@@ -9,8 +9,14 @@ During one of the WWDC 2013 sessions, an engineer did a presentation over their 
 
 # How is this different from GameKit?
 As GameKit framework does have a peer-to-peer functionality, the code is too buggy and, in a sense, unsupported for iOS 7. 
+# What is left to do?
++ Fill out how to use in intro
++ Put in relevant pics (remove placeholders) in intro
++ Once Bluetooth is on (but was off originally), exit out of that .xib file
++ fade out of .xib file
 
-#  Setup
+
+# Setup
 Install [CocoaPods](http://cocoapods.org/) if you don’t have it already
 
         sudo gem install cocoapods
