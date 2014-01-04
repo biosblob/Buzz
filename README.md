@@ -35,7 +35,7 @@ Run the project
 		Run
 
 # Thanks
-Thanks to Matthew York for providing [MYBlurIntroductionViewBlur](https://github.com/MatthewYork/MYBlurIntroductionView), an open sourced powerful platform to build introductions for your iPhone ap
+Thanks to Matthew York for providing [MYBlurIntroductionViewBlur](https://github.com/MatthewYork/MYBlurIntroductionView), an open sourced powerful platform to build introductions.
 
 # Future
-Planning on releasing it to the App Store as the application can be used in a multitude of situation
+Planning on releasing it to the App Store as the application can be used in a multitude of situation.
